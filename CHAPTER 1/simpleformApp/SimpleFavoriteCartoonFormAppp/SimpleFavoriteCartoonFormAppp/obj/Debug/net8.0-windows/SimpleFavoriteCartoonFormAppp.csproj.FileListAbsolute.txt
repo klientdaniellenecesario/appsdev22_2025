@@ -1,0 +1,17 @@
+C:\Users\neces\source\repos\SimpleFavoriteCartoonFormAppp\SimpleFavoriteCartoonFormAppp\bin\Debug\net8.0-windows\SimpleFavoriteCartoonFormAppp.exe
+C:\Users\neces\source\repos\SimpleFavoriteCartoonFormAppp\SimpleFavoriteCartoonFormAppp\bin\Debug\net8.0-windows\SimpleFavoriteCartoonFormAppp.deps.json
+C:\Users\neces\source\repos\SimpleFavoriteCartoonFormAppp\SimpleFavoriteCartoonFormAppp\bin\Debug\net8.0-windows\SimpleFavoriteCartoonFormAppp.runtimeconfig.json
+C:\Users\neces\source\repos\SimpleFavoriteCartoonFormAppp\SimpleFavoriteCartoonFormAppp\bin\Debug\net8.0-windows\SimpleFavoriteCartoonFormAppp.dll
+C:\Users\neces\source\repos\SimpleFavoriteCartoonFormAppp\SimpleFavoriteCartoonFormAppp\bin\Debug\net8.0-windows\SimpleFavoriteCartoonFormAppp.pdb
+C:\Users\neces\source\repos\SimpleFavoriteCartoonFormAppp\SimpleFavoriteCartoonFormAppp\obj\Debug\net8.0-windows\SimpleFavoriteCartoonFormAppp.Form1.resources
+C:\Users\neces\source\repos\SimpleFavoriteCartoonFormAppp\SimpleFavoriteCartoonFormAppp\obj\Debug\net8.0-windows\SimpleFavoriteCartoonFormAppp.csproj.GenerateResource.cache
+C:\Users\neces\source\repos\SimpleFavoriteCartoonFormAppp\SimpleFavoriteCartoonFormAppp\obj\Debug\net8.0-windows\SimpleFavoriteCartoonFormAppp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neces\source\repos\SimpleFavoriteCartoonFormAppp\SimpleFavoriteCartoonFormAppp\obj\Debug\net8.0-windows\SimpleFavoriteCartoonFormAppp.AssemblyInfoInputs.cache
+C:\Users\neces\source\repos\SimpleFavoriteCartoonFormAppp\SimpleFavoriteCartoonFormAppp\obj\Debug\net8.0-windows\SimpleFavoriteCartoonFormAppp.AssemblyInfo.cs
+C:\Users\neces\source\repos\SimpleFavoriteCartoonFormAppp\SimpleFavoriteCartoonFormAppp\obj\Debug\net8.0-windows\SimpleFavoriteCartoonFormAppp.csproj.CoreCompileInputs.cache
+C:\Users\neces\source\repos\SimpleFavoriteCartoonFormAppp\SimpleFavoriteCartoonFormAppp\obj\Debug\net8.0-windows\SimpleFavoriteCartoonFormAppp.dll
+C:\Users\neces\source\repos\SimpleFavoriteCartoonFormAppp\SimpleFavoriteCartoonFormAppp\obj\Debug\net8.0-windows\refint\SimpleFavoriteCartoonFormAppp.dll
+C:\Users\neces\source\repos\SimpleFavoriteCartoonFormAppp\SimpleFavoriteCartoonFormAppp\obj\Debug\net8.0-windows\SimpleFavoriteCartoonFormAppp.pdb
+C:\Users\neces\source\repos\SimpleFavoriteCartoonFormAppp\SimpleFavoriteCartoonFormAppp\obj\Debug\net8.0-windows\SimpleFavoriteCartoonFormAppp.genruntimeconfig.cache
+C:\Users\neces\source\repos\SimpleFavoriteCartoonFormAppp\SimpleFavoriteCartoonFormAppp\obj\Debug\net8.0-windows\ref\SimpleFavoriteCartoonFormAppp.dll
+C:\Users\neces\source\repos\SimpleFavoriteCartoonFormAppp\SimpleFavoriteCartoonFormAppp\obj\Debug\net8.0-windows\SimpleFavoriteCartoonFormAppp.Properties.Resources.resources
